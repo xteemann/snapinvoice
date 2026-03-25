@@ -14,7 +14,7 @@ import React from "react";
  * 4. Replace STRIPE_PAYMENT_LINK below
  */
 
-const STRIPE_PAYMENT_LINK = "https://buy.stripe.com/YOUR_PAYMENT_LINK_HERE";
+const STRIPE_PAYMENT_LINK = "https://buy.stripe.com/9B6fZg20y5eGdks8IefnO00";
 
 export default function PremiumBanner() {
   return (

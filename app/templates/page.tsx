@@ -78,7 +78,7 @@ const TEMPLATES = [
  * STRIPE_PAYMENT_LINK — Replace with your Stripe Payment Link URL.
  * See README.md Section 4 for setup instructions.
  */
-const STRIPE_PAYMENT_LINK = "https://buy.stripe.com/YOUR_PAYMENT_LINK_HERE";
+const STRIPE_PAYMENT_LINK = "https://buy.stripe.com/9B6fZg20y5eGdks8IefnO00";
 
 export default function TemplatesPage() {
   return (
