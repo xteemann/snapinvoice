@@ -69,11 +69,11 @@ export default function RootLayout({
             3. Find your publisher ID (starts with ca-pub-)
             4. Uncomment the script below and paste your ID
             ============================================================ */}
-        {/* <script
+        <script
           async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX"
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4388032126259103"
           crossOrigin="anonymous"
-        /> */}
+        />
 
         {/* ============================================================
             GOOGLE ANALYTICS — Replace G-XXXXXXXXXX with your GA4 ID.
