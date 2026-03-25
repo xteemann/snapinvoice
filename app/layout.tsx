@@ -23,6 +23,7 @@ export const metadata: Metadata = {
   creator: "SnapInvoice",
   publisher: "SnapInvoice",
   robots: { index: true, follow: true },
+  verification: { google: "OSpdm3T3OfYrTZbWpKV3IkOtRMpI5D0ZG6p2pzIUr34" },
   openGraph: {
     type: "website",
     locale: "en_US",
